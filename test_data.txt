@@ -1,0 +1,10 @@
+bcandido|Candido|Brian|P|5|sun
+lbanas|Banas|Kerry|S|5|mercury
+dholder|Holder|David|S|5|venus
+dives|Ives|David|W|5|earth
+slambert|Lambert|Scott|S|5|mars
+rtaylor|Taylor|Rich|S|5|jupiter
+dtempleman|Templeman|Daniel|W|5|saturn
+vtrimboli|Trimboli|Vincent|S|5|uranus
+swalker|Walker|Steve|W|5|neptune
+szemanek|Zemanek|Steven|W|5|pluto
