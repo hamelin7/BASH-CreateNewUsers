@@ -1,6 +1,5 @@
 #!/bin/bash
 # Greg Hamelin
-#CIT-3205-DE1
 
 echo "Last         First     Job    Old    New    Message"
 
